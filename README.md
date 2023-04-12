@@ -1,2 +1,2 @@
-# Useless-Utility
-Some useless utility, Free to use!
+# Here's some stuff i made by myself
+Have fun messing around!
